@@ -7,6 +7,8 @@ The `models` directory contains defintions for all model variants in [BCMD][bcmd
 ## Data
 Both experimental data and synthetic model inputs are provided in the `data` directory. The `hypercapnia` subdirectory contains NIRS and systemic data from adult volunteers undergoing a hypercapnia challenge, in CSV format. BCMD input files corresponding to these data are in the `inputs` subdirectory, which also includes the input files for steady state simulations for blood pressure, oxygen saturation and partial pressure of CO<sub>2</sub>. The [R][r] script `synth.R` contains the functions used to generate a large number of synthetic input data sets. The actual files so generated are included in the `synthetic` subdirectory.
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.16776.svg)](http://dx.doi.org/10.5281/zenodo.16776)
+
 [bcmd]: https://github.com/bcmd/BCMD
 [bsrv]: http://www.plosone.org "(NB: final URL will be added after publication)"
 [r]: http://www.r-project.org
