@@ -10,5 +10,5 @@ Both experimental data and synthetic model inputs are provided in the `data` dir
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.16776.svg)](http://dx.doi.org/10.5281/zenodo.16776)
 
 [bcmd]: https://github.com/bcmd/BCMD
-[bsrv]: http://www.plosone.org "(NB: final URL will be added after publication)"
+[bsrv]: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126695
 [r]: http://www.r-project.org
