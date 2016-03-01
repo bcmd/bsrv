@@ -451,7 +451,7 @@ p1 := 12
 
 ## Proton cost of the reaction reducing a$_3$.
 ## ~ dimensionless
-## $p_3$
+## $p_2$
 ## + Metabolism
 p2 := 4
 
